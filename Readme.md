@@ -1,5 +1,5 @@
 #### Name Repository: Data Analysis Journey
-#### Description: Practical guide to data analysis with Python with Pandas.
+#### Description: Practical guide to data analysis Python with Pandas.
 
 ---
 
